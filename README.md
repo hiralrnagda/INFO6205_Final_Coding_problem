@@ -46,3 +46,6 @@ Use your own IDE to code the functions
 After successful implemntation, push your code to the GitHub repository and submit the GitHub URL through Canvas
 
 Also upload the screenshot of all the testcases running successfully, on Canvas
+
+IMAGE FOR TEST CASES PASSED IS AS FOLLOWS:
+![]<img width="960" alt="PSA_FINAL_CODE_TEST_PASS" src="https://user-images.githubusercontent.com/48949772/146604471-2427d50f-9aa4-4214-aa9f-102eb72753ba.png">
